@@ -1,0 +1,10 @@
+html{
+	background-image: url('https://i.pinimg.com/originals/b5/e4/6a/b5e46a73e5ffc4857c46b1c749b2583b.gif');
+	background-size: 50vw;
+	color: white;
+}
+#messages{
+	background-color: rgba(10, 10, 10, 0.2);
+	height: 900px;
+	overflow: scroll;
+}
